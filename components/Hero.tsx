@@ -150,7 +150,7 @@ export default function Hero() {
             fontWeight={600}
             color={"white"}
             bg={"green.300"}
-            href={"#"}
+            href={"/cadastro"}
             _hover={{
               bg: "green.200",
             }}

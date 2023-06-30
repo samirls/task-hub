@@ -76,7 +76,7 @@ import {
             justify={{ base: 'center', md: 'center' }}
             align={{ base: 'center', md: 'center' }}>
             <Text>© All rights reserved.</Text>
-            <Text>Created by <strong>samirls</strong> and <strong>warleyvods</strong>.</Text>
+            <Text>Created by <Link color={'blue.600'} href={'/sobre'}>samirls</Link> and <Link color={'blue.600'} href={'/sobre'}>warleyvods</Link>.</Text>
           </Container>
         </Box>
       </Box>
